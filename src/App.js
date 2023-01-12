@@ -2,7 +2,7 @@
 function App() {
   return (
     <div className="App">
-      blog app 2
+      development
     </div>
   );
 }
